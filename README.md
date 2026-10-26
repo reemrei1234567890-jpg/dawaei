@@ -1,17 +1,20 @@
-# dawaei
+# 💊 Dawaei (دوائي) - Smart Medication Adherence System
+**نظام "دوائي" الذكي للالتزام الدوائي**
 
-A new Flutter project.
+## 📌 عن المشروع (About the Project)
+يُعد تطبيق **"دوائي" (Dawaei)** حلماً تقنياً ومهندساً ذكياً لرفع نسبة الالتزام بتناول الأدوية في مواعيدها المحددة، وخاصة كبار السن ومرضى الأمراض المزمنة. يهدف النظام إلى تقليل الأخطاء الدوائية وتحسين النتائج الصحية عبر توفير تنبيهات ذكية، تتبع مستمر، ومتابعة دقيقة للجرعات.
 
-## Getting Started
+## 🛠️ التقنيات المستخدمة (Tech Stack)
+* **الإطار البرمجي (Framework):** Flutter
+* **لغة البرمجة (Language):** Dart
+* **منصة إدارة النسخ:** Git & GitHub
 
-This project is a starting point for a Flutter application.
+## 📂 هيكلية المستودع (Repository Structure)
+* `lib/`: ملفات الشفرة البرمجية الأساسية للتطبيق واجهات المستخدم (UI).
+* `android/` & `ios/`: ملفات الدعم الخاصة بأنظمة التشغيل.
+* `assets/`: الصور والأيقونات والموارد المرئية للنظام.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 مميزات النظام (Key Features)
+1. جدول زمني ذكي ومنظم لتنبيهات الأدوية.
+2. حساب نسبة الالتزام الدوائي بدقة عبر الخوارزميات المضمنة.
+3. واجهة مستخدم سلسة وبسيطة مصممة خصيصاً لتلائم مختلف الفئات العمرية.
